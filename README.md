@@ -1,14 +1,9 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h2>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width=50></h1>
 
-###
-
-<p align="left">💼 Currently working at <a href="https://www.caracoltv.com/">Caracol TV</a><br>🎓 Student of Computer Systems Administration at the <a href="https://www.manizales.unal.edu.co/"> Universidad Nacional de Colombia</a></p>
-
-###
-
-<h2 align="center">My Skills</h2>
-
-###
+<div align="center">
+  <img src="https://ghc.clait.sh/repo/astrxnomo/discord-ticket-bot-py?bg_color=151515&title_color=f6f6f6&text_color=939393&icon_color=ffffff&show_user=false" alt="GitHub Repo Card">
+  <img src="https://ghc.clait.sh/repo/astrxnomo/chmaquina?bg_color=151515&title_color=f6f6f6&text_color=939393&icon_color=ffffff&show_user=false" alt="GitHub Repo Card">
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -40,12 +35,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=astrxnomo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astrxnomo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-###
 
